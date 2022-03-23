@@ -1,0 +1,16 @@
+{
+  "name": "node-hide-console-window",
+  "version": "2.1.4",
+  "description": "A node module to toggle your app's console window visibility.",
+  "main": "index.js",
+  "author": "mertushka",
+  "license": "MIT",
+  "repository": "https://github.com/mertushka/node-hide-console-window",
+  "keywords": [
+    "Hide",
+    "Show",
+    "Window",
+    "Console",
+    "Console Window"
+  ]
+}
